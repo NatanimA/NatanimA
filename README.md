@@ -85,6 +85,24 @@
  
 </p>
 
+<h3>Frameworks</h3>
+<p>
+  <a href="https://vuejs.org/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg"
+      alt="Vue Js"/>
+  </a>
+   <a href="https://www.djangoproject.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"
+      alt="Django"/>
+  </a>
+  
+  <a href="https://spring.io/projects/spring-boot" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"
+      alt="Spring boot"/>
+  </a>
+ 
+</p>
+
 <h3>Version Control & CI/CD</h3>
 <p>
   
