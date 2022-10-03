@@ -113,7 +113,7 @@
   <a href="https://gitlab.com" target="_blank">
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=red" alt="gitlab" />
   </a>
-   <a href="https://github.com/ELanza-48" target="_blank">
+   <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
 </p>
