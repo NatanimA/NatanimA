@@ -1,5 +1,5 @@
 <p align="center"></p><hr><h1 align="center">Hello World 👋 <br> I'm Natanim Abesha</h1><h3 align="center">Software Engineer and Full-stack Software Developer  </h3><h4 align="center">I have 2+ years programming experience.</h4>
-<p align="center">I am a Software Enginner Based in Addis ♥️ , I am always Striving to create a good looking front end using React and Vue, I am also very passionate about Backend Development, I mostly Use Java Spring boot , Python Django, and Ruby on rails to create an effiecient quality code for the backend and I use Spring boot to create an efficient REST-Apis<br></p>
+<p align="center">I am a Software Enginner Based in Addis ♥️ , I am always Striving to create a good looking front end using React and Vue, I am also very passionate about Backend Development, I mostly use Java Spring boot , Python Django, and Ruby on rails to create an effiecient quality based code for the backend and I use Spring boot to create an efficient REST-Apis<br></p>
 <hr>
 <h2><u><b>Knowledge Base</b></u></h2>
 
@@ -89,16 +89,16 @@
 <p>
   <a href="https://vuejs.org/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg"
-      alt="Vue Js"/>
+      alt="Vue Js" width="40" height="40"/>
   </a>
    <a href="https://www.djangoproject.com/" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"
-      alt="Django"/>
+      alt="Django" width="40" height="40"/>
   </a>
   
   <a href="https://spring.io/projects/spring-boot" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"
-      alt="Spring boot"/>
+      alt="Spring boot" width="40" height="40"/>
   </a>
  
 </p>
