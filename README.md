@@ -157,28 +157,12 @@
 
 <br><br>
 
-### This week I spent my time on<img src="https://www.gifsanimados.org/data/media/137/reloj-imagen-animada-0004.gif" width="40">
-
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   27 hrs          ██████████████░░░░   67.50 %
-CSS          4  hrs          ▓▓░░░░░░░░░░░░░░░░   10.00 %
-HTML         4  hrs          ▓▓░░░░░░░░░░░░░░░░   10.00 %
-Github       5  hrs          ▓▓▓░░░░░░░░░░░░░░░   12.50 %
-```
-
-<!--END_SECTION:waka-->
-
-# 📊 Stats:
-![](https://github-readme-stats.vercel.app/api?username=natanima&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+# 📊 Streak:
+---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=natanima&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=natanima&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=natanima&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-[![](https://visitcount.itsvg.in/api?id=natanima&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # Github's Status
 
