@@ -1,5 +1,7 @@
 <p align="center"></p><hr><h1 align="center">Hello World 👋 <br> I'm Natanim Abesha</h1><h3 align="center">Software Engineer and Full-stack Software Developer  </h3><h4 align="center">I have 2+ years programming experience.</h4>
-<p align="center">I am a Software Enginner Based in Addis ♥️ , I am always Striving to create a good looking front end using React and Vue, I am also very passionate about Backend Development, I mostly use Java Spring boot , Python Django, and Ruby on rails to create an effiecient quality based code for the backend and I use Spring boot to create an efficient REST-Apis<br></p>
+<p align="center">As a highly skilled Software engineer and Full-stack developer with over 2 years of experience in the field, I have dedicated myself to developing scalable applications for clients around the world. I enjoy collaborating with clients and team members to deliver innovative solutions that exceed expectations. With expertise in a range of programming languages including Java, Python, and JavaScript,
+I have worked on projects spanning various industries from e-commerce to enterprise applications.
+I am a strong believer in agile methodologies and the power of teamwork. My passion for coding and my commitment to delivering exceptional results have earned me an excellent reputation among clients and colleagues alike. If you're looking for a driven individual who can work collaboratively while delivering results at a high level, look no further than me as your Software engineer and Full-stack developer.<br></p>
 <hr>
 <h2><u><b>Knowledge Base</b></u></h2>
 
